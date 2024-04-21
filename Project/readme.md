@@ -28,3 +28,9 @@ npm start
   - Tap on the "Scan QR Code" option within the Expo Go app.
   - Use your device's camera to scan the QR code displayed in the terminal or command prompt.
   - Once scanned, the Expo Go app will load and run your application.
+ 
+![Output1](../images/p_1.png)
+![Output2 with other place](../images/p_2.png)
+![Output3](../images/p_3.png)
+![Forecast](../images/p_4.png)
+
