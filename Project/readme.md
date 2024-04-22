@@ -1,4 +1,4 @@
-# Weather App
+# Weather Forecast App
 
 This is a weather application built with Expo 49 on React Native.
 
